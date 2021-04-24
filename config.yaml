@@ -3,4 +3,4 @@ languageCode: "en-us"
 title: "Alex Feldsinger"
 theme: "toha"
 params:
-  background: "images/coding-background.jpg"
+#  background: "images/coding-background.jpg"
