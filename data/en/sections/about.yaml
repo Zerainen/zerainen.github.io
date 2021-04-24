@@ -1,0 +1,50 @@
+section:
+    name: About
+    id: about
+    enable: true
+    weight: 1
+    showOnNavbar: true
+    template: sections/about.html
+# your designation
+designation: Data Science Student & Software Developer
+# your company information
+company:
+  name: miviti GmbH
+  url: "https://www.miviti.de"
+# a summary about you
+summary: "Hello everyone! My name is Alex and this is my personal digital business card. I am currently finishing up my Master's degree in Data Engineering & Analytics at the [TUM](https://www.tum.de/). Simultaneously I am working as a working student at [miviti GmbH](https://www.miviti.de/), where I had to opportunity to work with a variety of different tools and technologies, such as: Android Studio, Angular, Spring Boot, Microsoft Azure, WordPress, etc."
+socialLinks:
+  - name: Github
+    icon: "fab fa-github"
+    url: "https://github.com/Zerainen"
+
+  - name: LinkedIn
+    icon: "fab fa-linkedin"
+    url: "https://www.linkedin.com/in/alex-feldsinger-840998208/"
+
+  - name: Xing
+    icon: "fab fa-xing"
+    url: "https://www.xing.com/profile/Alex_Feldsinger/cv"
+
+  - name: Email
+    icon: "fas fa-envelope"
+    url: "feldsinger@gmx.de"
+
+
+# your resume. this file path should be relative to you "static" directory
+resume: "files/cv.pdf"
+
+softSkills:
+  - name: Hard Working
+    percentage: 95
+    color: green
+  - name: Problem Solving
+    percentage: 95
+    color: blue
+  - name: Team Work
+    percentage: 95
+    color: yellow
+  - name: Fast Learner
+    percentage: 95
+    color: orange
+

@@ -1,0 +1,12 @@
+# some information about you
+name: "Alex Feldsinger"
+image: "images/profil-alex.png"
+
+# greeting message before your name. it will default to "Hi! I am" if not provided
+greeting: "Hi, I am"
+
+# a summary of what you do
+summary:
+  - Data Science Student at TUM
+  - Software Developer at miviti
+  - Passionate about programming and learning new things

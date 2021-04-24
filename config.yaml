@@ -1,0 +1,9 @@
+baseURL: "https://zerainen.github.io"
+languageCode: "en-us"
+title: "Alex Feldsinger"
+theme: "toha"
+params:
+  background: "images/coding-background.jpg"
+
+  # GitHub repo URL of your site
+  gitRepo: https://github.com/Zerainen/zerainen.github.io
