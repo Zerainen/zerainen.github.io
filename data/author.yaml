@@ -1,6 +1,6 @@
 # some information about you
 name: "Alex Feldsinger"
-image: "images/profil-alex.png"
+image: "images/avatar.png"
 
 # greeting message before your name. it will default to "Hi! I am" if not provided
 greeting: "Hi, I am"
