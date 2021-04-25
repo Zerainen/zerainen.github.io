@@ -32,7 +32,7 @@ socialLinks:
 
 
 # your resume. this file path should be relative to you "static" directory
-resume: "files/cv.pdf"
+#resume: "files/cv.pdf"
 
 softSkills:
   - name: Hard Working
