@@ -31,6 +31,6 @@ projects:
     tags: ["Hobby", "Android", "Kotlin"]
   - name: Personal Digital Business Card
     role: Developer
-    repo: https://github.com/Zerainen/hugo-toha-personal-page
-    summary: Created this portfolio with hugo
+    repo: https://github.com/Zerainen/zerainen.github.io
+    summary: Created this portfolio with Hugo.
     tags: ["Hobby", "Hugo"]
