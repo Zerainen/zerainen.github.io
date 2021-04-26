@@ -9,7 +9,7 @@ skills:
   - name: C++
     summary: "Developed my bachelor's thesis in C++, as well as had multiple other university projects in C++."
   - name: Linux
-    summary: "I am familiar with Linux since I am using Kubuntu as my main operation system."
+    summary: "I am familiar with Linux since I am using Kubuntu as my main operating system."
   - name: Android Studio
     summary: "Worked on multiple Android Apps."
   - name: Kotlin
@@ -19,8 +19,8 @@ skills:
   - name: Git
     summary: "Used GitHub for private projects and GitLab for most university related projects."
   - name: Microsoft Azure
-    summary: "Basic Knowledge. Had contact with Microsoft Azure as a working student at miviti."
+    summary: "Basic Knowledge."
   - name: Angular
-    summary: "Basic Knowledge. Had contact with Angular as a working student at miviti."
+    summary: "Basic Knowledge."
   - name: Spring Boot
-    summary: "Basic Knowledge. Had contact with Spring Boot as a working student at miviti."
+    summary: "Basic Knowledge."
