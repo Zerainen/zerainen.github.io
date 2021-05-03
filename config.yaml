@@ -5,4 +5,6 @@ theme: "toha"
 params:
   background: "images/coding-background.jpg"
   logo:
+    main: images/avatar.png
+    inverted: images/avatar.png
     favicon: images/avatar.png
