@@ -4,3 +4,5 @@ title: "Alex Feldsinger"
 theme: "toha"
 params:
   background: "images/coding-background.jpg"
+  logo:
+    favicon: images/avatar.png
