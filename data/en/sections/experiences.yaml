@@ -11,18 +11,18 @@ experiences:
       url: "https://www.miviti.de"
       location: Munich
       # company overview
-      overview: Small local IT service provider
+      overview: Small local IT service company
     positions:
       - designation: Working Student
         start: Mar 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
-        # end: Dec 2020
+        end: Feb 2022
         # give some points about what was your responsibilities at the company.
         responsibilities:
-          - Create websites with WordPress
+          - Web Development with Angular & Spring Boot
           - Android Development
           - Microsoft Azure
-          - Contact with Angular & Spring Boot
+          - WordPress
   - company:
       name: Expleo Group
       url: "https://expleogroup.com/de"

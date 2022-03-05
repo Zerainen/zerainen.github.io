@@ -34,8 +34,3 @@ projects:
     repo: https://github.com/Zerainen/zerainen.github.io
     summary: Created this portfolio with Hugo.
     tags: ["Hobby", "Hugo"]
-  - name: CloudmersiveToolbox
-    role: Developer
-    repo: https://github.com/Zerainen/CloudmersiveToolbox
-    summary: Angular & Spring Boot - Web Application that uses the [Cloudmersive-API](https://cloudmersive.com/) for all kinds of machine learning related tasks
-    tags: ["Hobby", "Angular", "Spring Boot", "Material-UI", "TypeScript", "HTML", "CSS", "Java"]

@@ -7,20 +7,18 @@ section:
 
 skills:
   - name: C++
-    summary: "Developed my bachelor's thesis in C++, as well as had multiple other university projects in C++."
-  - name: Linux
-    summary: "I am familiar with Linux since I am using Kubuntu as my main operating system."
-  - name: Android Studio
-    summary: "Worked on multiple Android Apps."
+    summary: "I worked with C++ in multiple university projects, one of them being my bachelor's thesis."
+  - name: Python
+    summary: "In my last years at university Python was the most important language, especially in the machine learning and deep learning domain."
   - name: Kotlin
     summary: "Used it at university, but also as part of Android Development."
-  - name: Python
-    summary: "Worked with it at university in the machine learning course and the deep learning course."
-  - name: Git
-    summary: "Used GitHub for private projects and GitLab for most university related projects."
-  - name: Microsoft Azure
-    summary: "Basic Knowledge."
   - name: Angular
-    summary: "Basic Knowledge."
+    summary: "Developed websites with at as part of my job as a working student."
   - name: Spring Boot
-    summary: "Basic Knowledge."
+    summary: "Developed websites with at as part of my job as a working student."
+  - name: Microsoft Azure
+    summary: "Used it as part of my job as a working student."
+  - name: Linux
+    summary: "I have been using Kubuntu as my main operating system for many years now and can only recommend it."
+  - name: Android Studio
+    summary: "First came into contact with it at my working student job and after that also used it privately."

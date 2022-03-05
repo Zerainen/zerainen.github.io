@@ -7,9 +7,8 @@ greeting: "Hi, I am"
 
 # a summary of what you do
 summary:
-  - Data Science Student at TUM
-  - Software Developer at miviti
-  - Passionate about programming and learning new things
+  - Data Science student at TUM
+  - Passionate programmer
 contactInfo:
   email: "feldsinger@gmx.de"
 

@@ -6,13 +6,13 @@ section:
     showOnNavbar: true
     template: sections/about.html
 # your designation
-designation: Data Science Student & Software Developer
+#designation: Data Science student
 # your company information
-company:
-  name: miviti GmbH
-  url: "https://www.miviti.de"
+#company:
+#  name: miviti GmbH
+#  url: "https://www.miviti.de"
 # a summary about you
-summary: "Hello everyone! My name is Alex and this is my personal digital business card. I am currently finishing up my Master's degree in Data Engineering & Analytics at the [TUM](https://www.tum.de/). Simultaneously I am working as a working student at [miviti GmbH](https://www.miviti.de/), where I had the opportunity to work with a variety of different tools and technologies, such as: Android Studio, Angular, Spring Boot, Microsoft Azure, WordPress, etc."
+summary: "Hello everyone! My name is Alex and this is my personal digital business card. I am currently finishing up my Master's degree in Data Engineering & Analytics at [TUM](https://www.tum.de/). I was very fortunate to work at [miviti GmbH](https://www.miviti.de/) as a working student, where I had the opportunity to work with a variety of different tools and technologies, such as: Angular, Spring Boot, Azure."
 socialLinks:
   - name: Github
     icon: "fab fa-github"
