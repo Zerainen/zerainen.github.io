@@ -6,8 +6,8 @@
   height: 50px;
   z-index: 99999;
   transition: all 0.4s ease-out;
-  margin: 0;
-  padding-top: 0.1rem;
+  margin: 0px;
+  padding-top: 0.4rem;
   text-align: center;
 }
 
@@ -30,6 +30,7 @@
 .initial-navbar li a:hover {
   color: #f9fafc;
   transition: all 0.3s ease-out;
+  transform: translateY(-2px);
 }
 
 .navbar-collapse {
@@ -166,7 +167,6 @@
 /* IPad Pro */
 @media (max-width: 1024px) {
   .top-navbar {
-    height: -webkit-fit-content;
     height: -moz-fit-content;
     height: fit-content;
     padding-bottom: 0px;
