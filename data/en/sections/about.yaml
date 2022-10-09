@@ -12,7 +12,7 @@ section:
 #  name: miviti GmbH
 #  url: "https://www.miviti.de"
 # a summary about you
-summary: "Hello everyone! My name is Alex and this is my personal digital business card. I am currently finishing up my Master's degree in Data Engineering & Analytics at [TUM](https://www.tum.de/). I was very fortunate to work at [miviti GmbH](https://www.miviti.de/) as a working student, where I had the opportunity to work with a variety of different tools and technologies, such as: Angular, Spring Boot, Azure."
+summary: "Hello everyone! My name is Alex and this is my personal digital business card. I am currently working as an IT consultant at [Netlight](https://www.netlight.com/)."
 socialLinks:
   - name: Github
     icon: "fab fa-github"

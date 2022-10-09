@@ -7,13 +7,27 @@ section:
 
 experiences:
   - company:
+      name: Netlight
+      url: "https://www.netlight.com/"
+      location: Munich
+      # company overview
+      overview: Netlight provides genuine consulting services for leaders in the digital industry.
+    positions:
+      - designation: IT Consultant
+        start: Oct 2022
+        # don't provide end date if you are currently working there. It will be replaced by "Present"
+        # end: Feb 2022
+        # give some points about what was your responsibilities at the company.
+        responsibilities:
+          - Web Development
+  - company:
       name: miviti GmbH
       url: "https://www.miviti.de"
       location: Munich
       # company overview
       overview: Small local IT service company
     positions:
-      - designation: Working Student
+      - designation: Software Developer
         start: Mar 2020
         # don't provide end date if you are currently working there. It will be replaced by "Present"
         end: Feb 2022
@@ -29,7 +43,7 @@ experiences:
       location: Munich
       overview: Expleo is a trusted partner for end-to-end, integrated engineering, quality services and management consulting for digital transformation.
     positions:
-      - designation: Working Student
+      - designation: App Tester
         start: Nov 2018
         end: Sep 2019
         responsibilities:
