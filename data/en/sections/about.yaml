@@ -6,7 +6,7 @@ section:
     showOnNavbar: true
     template: sections/about.html
 # your designation
-#designation: Data Science student
+# designation: Data Science student
 # your company information
 #company:
 #  name: miviti GmbH
